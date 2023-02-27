@@ -5,5 +5,5 @@ func Hello() string {
 }
 
 func InputAge(age int) int {
-	return age
+	return age + 1
 }
